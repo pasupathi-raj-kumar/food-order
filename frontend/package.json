@@ -50,5 +50,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://127.0.0.1:4000"
+  "proxy": "https://food-order-qi27.onrender.com"
 }
